@@ -10,7 +10,7 @@ I am close to finish a bootcamp course at SoyHenry to become a Full-Stack develo
 
 ### Technologies I am familiarized with
 
-**Languages**: Javascript, CSS, HTML, Typescript, JAVA, Python, R
+**Languages**: Javascript, CSS, HTML, Typescript, JAVA, Python, R /n
 **Frameworks and libraries**: GitHub, NodeJS, React, React-Native, Redux, Express, Sequelize, MySQL, Postgres.
 
 ### Interests
