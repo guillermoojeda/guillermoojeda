@@ -11,7 +11,7 @@ I am close to finish a bootcamp course at SoyHenry to become a Full-Stack develo
 ### Technologies I am familiarized with
 
 **Languages**: Javascript, CSS, HTML, Typescript, JAVA, Python, R, MatLab.  
-**Frameworks and libraries**: GitHub, NodeJS, React, React-Native, Redux, Express, Sequelize, MySQL, Postgres.
+**Frameworks and libraries**: GitHub, NodeJS, React, React-Native, Redux, Express, Sequelize, MySQL, PostgreSQL.
 
 ### Interests
 
@@ -23,7 +23,7 @@ A full-stack web developrment program, at SoyHenry institute.
 
 ### Work and Academic History
 
-* Currently  looking to work in the ield of technology.
+* Currently  looking to work in the field of technology.
 * Worked as an Agriculture end Environmental Engineer, and have experience in Data Analysis and Geographic Information Systems, 
 * Finished my Master´s Degree in the College of Environmental Sciences of the State University of New York, in the city of Syracuse, NY, where I lived for two years.
 * I finished my Bachelor in Agriculture at Cuyo University, in Mendoza, Argentina
