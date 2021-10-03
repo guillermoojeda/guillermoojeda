@@ -35,7 +35,7 @@ A full-stack web developrment program, at SoyHenry institute.
 
 ### Get in touch with me
 
-e-mail: guiojeda@gmail.com
+e-mail: guiojeda@gmail.com  
 linkedin: https://www.linkedin.com/in/guillermo-francsico-ojeda/
 
 
