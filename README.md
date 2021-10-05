@@ -22,7 +22,7 @@ Web Developing, Data Sciences, Geographic Information Systems.
 
 #### Weather App
 
-![Image of Weather App](https://github.com/guillermoojeda/guillermoojeda/blob/main/Images/WeatherApp_image.jpg)  
+![Image of Weather App](https://github.com/guillermoojeda/guillermoojeda/blob/main/Images/WeatherApp_small.jpg)  
 A single-page app, made wirh JS and React. It connects to http://www.openweather.org to obtain weather data from different places. Type the name of a city and check the weather for today.
 **Libraries and frameworks used:** Javascript, React, Bootstrap.
 
