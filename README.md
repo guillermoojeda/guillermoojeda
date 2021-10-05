@@ -30,7 +30,7 @@ I will be uploading more of my works soon!
 
 #### Data Analysis
 
-If you´d like to see some of my skills on data analysis, take a look to my blog at https://guiojdata.wordpress.com/. Here, you can see som of my works, like this PowerBi panel that analyzes the evolution of Covid in Argentina.  
+If you´d like to see some of my skills on data analysis, take a look to my blog at https://guiojdata.wordpress.com/. Here, you can see some of my works, like this PowerBi panel that analyzes the evolution of Covid in Argentina.  
 ![Image of Weather App](https://github.com/guillermoojeda/guillermoojeda/blob/main/Images/Argentina_Covid_small.jpg)  
 
 ### Remote Sensing
