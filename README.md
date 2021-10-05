@@ -4,23 +4,27 @@
 
 I am close to finish a bootcamp course at SoyHenry to become a Full-Stack developer. Even though I have worked for 10 years in the field of agricultute, food industries and environmental sciences, I am passionate about programming and technology. I also have experience in the fields of  Geogreaphic Information Systems and Statistics. 
 
-### Some projects I have done
+### Current activities
 
-(Will update soon!)
+* Currently  looking to work in the field of technology.
+* Studying A full-stack web developrment program, at SoyHenry institute.
+
+### Interests
+
+Web Developing, Data Sciences, Geographic Information Systems.
 
 ### Technologies I am familiarized with
 
 **Languages**: Javascript, CSS, HTML, Typescript, JAVA, Python, R, MatLab.  
 **Frameworks and libraries**: GitHub, NodeJS, React, React-Native, Redux, Express, Sequelize, MySQL, Postgres.
 
-### Interests
+### Some projects I have done
 
-Web Developing, Data Sciences, Geographic Information Systems.
+#### Weather App
 
-### Current activities
-
-* Currently  looking to work in the field of technology.
-* Studying A full-stack web developrment program, at SoyHenry institute.
+![Image of Weather App](https://ibb.co/YT9rsL2)
+A single-page app, made wirh JS and React. It connects to http://www.openweather.org to obtain weather data from different places. Type the name of a city and check the weather for today.
+**Libraries and frameworks used:** Javascript, React, Bootstrap.
 
 ### Work and Academic History
 
