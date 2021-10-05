@@ -40,7 +40,7 @@ I will be updating this section soon!
 ### Work and Academic History
 
 * Worked as an Agriculture end Environmental Engineer, and have experience in Data Analysis and Geographic Information Systems, 
-* Finished my Master´s Degree in the College of Environmental Sciences of the State University of New York, in the city of Syracuse, NY, where I lived for two years. My Master focused in Geographic iInformation Systems, Remote Sensing and Data Sciences.
+* Finished my Master´s Degree in the College of Environmental Sciences of the State University of New York, in the city of Syracuse, NY, where I lived for two years. My Master focused in Geographic Information Systems, Remote Sensing and Data Sciences.
 * I have invested most of my worked experience in Argentina, although I have also worked in internships in the United States.
 * I finished my Bachelor in Agriculture at Cuyo University, in Mendoza, Argentina
 
