@@ -2,7 +2,7 @@
 
 ### About me 
 
-I am close to finish a bootcamp course at SoyHenry to become a Full-Stack developer. Even though I have worked for 10 years in the field of agricultute, food industries and environmental sciences, I am passionate about programming and technology. I also have experience in the fields of  Geogreaphic Information Systems and Statistics. 
+I hve recently finished a bootcamp course at SoyHenry to become a Full-Stack web developer. Even though I have worked for 10 years in the field of agricultute, food industries and environmental sciences, I am passionate about programming and computer sciences. I also have experience in the fields of  Geogreaphic Information Systems and Statistics. My main goals right now is to start my career in the field of technology.
 
 ### Current activities
 
