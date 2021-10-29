@@ -20,9 +20,13 @@ Web Developing, Data Sciences, Geographic Information Systems.
 
 ### Some projects I have done
 
+#### Truco Henry
+![Image of Weather App](https://github.com/guillermoojeda/guillermoojeda/blob/main/Images/trucoHenryGif.gif) 
+Our online version of a popular card game, "Truco". Play 1 vs 1, enter as a guest or create a user to keep track of your statistics, add friends, play tournaments. Check it out at https://trucohenry.com. 
+
 #### Weather App
 
-![Image of Weather App](https://github.com/guillermoojeda/guillermoojeda/blob/main/Images/WeatherApp_small.jpg)  
+![Image of Weather App](https://github.com/guillermoojeda/guillermoojeda/blob/main/Images/sample.gif)  
 A single-page app, made wirh JS and React. It connects to http://www.openweather.org to obtain weather data from different places. Type the name of a city and check the weather for today.
 **Libraries and frameworks used:** Javascript, React, Bootstrap.
   
