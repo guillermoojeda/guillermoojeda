@@ -28,7 +28,7 @@ Our online version of a popular card game, "Truco". Play 1 vs 1, enter as a gues
 #### Weather App
 
 ![Image of Weather App](https://github.com/guillermoojeda/guillermoojeda/blob/main/Images/sample.gif)  
-A single-page app, made wirh JS and React. It connects to http://www.openweather.org to obtain weather data from different places. Type the name of a city and check the weather for today.
+A single-page app, made wirh JS and React. Check it out at https://lnkd.in/exSnvAQd. This app connects to http://www.openweather.org to obtain weather data from different places. Type the name of a city and check the weather for today.
 **Libraries and frameworks used:** Javascript, React, Bootstrap.
   
 I will be uploading more of my works soon!
