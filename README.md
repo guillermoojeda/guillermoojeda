@@ -22,7 +22,8 @@ Web Developing, Data Sciences, Geographic Information Systems.
 
 #### Truco Henry
 ![Image of Weather App](https://github.com/guillermoojeda/guillermoojeda/blob/main/Images/trucoHenryGif.gif)  
-Our online version of a popular card game, "Truco". Play 1 vs 1, enter as a guest or create a user to keep track of your statistics, add friends, play tournaments. Check it out at https://trucohenry.com. 
+Our online version of a popular card game, "Truco". Play 1 vs 1, enter as a guest or create a user to keep track of your statistics, add friends, play tournaments. Check it out at https://trucohenry.com.
+**Libraries and frameworks used:** Javascript, React, Redux, Bootstrap, HTML, CSS, Express, NodeJS, Sequelize, Websocket.io.
 
 #### Weather App
 
