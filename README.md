@@ -16,7 +16,7 @@ Web Developing, Data Sciences, Geographic Information Systems.
 ### Technologies I am familiarized with
 
 **Languages**: Javascript, CSS, HTML, Typescript, JAVA, Python, R, MatLab.  
-**Frameworks and libraries**: GitHub, NodeJS, React, React-Native, Redux, Express, Sequelize, MySQL, Postgres.
+**Frameworks and libraries**: GitHub, NodeJS, React, React-Native, Redux, Materials UI, Apexcharts, Motion, Express, Sequelize, MySQL, Postgres.
 
 ### Some projects I have done
 
