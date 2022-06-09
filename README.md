@@ -2,16 +2,16 @@
 
 ### About me 
 
-I hve recently finished a bootcamp course at SoyHenry to become a Full-Stack web developer. Even though I have worked for 10 years in the field of agricultute, food industries and environmental sciences, I am passionate about programming and computer sciences. I also have experience in the fields of  Geogreaphic Information Systems and Statistics. My main goals right now is to start my career in the field of technology.
+I am currently working as a Front End developer, but seeeking opportunities in the field of technology. Even though I have worked for 10 years in the field of agricultute, food industries and environmental sciences, I am passionate about programming and computer sciences. I also have experience in the fields of Geogreaphic Information Systems and Statistics. My main goal right now is to improve my career in the field of technology.
 
 ### Current activities
 
-* Currently  looking to work in the field of technology.
-* Studying A full-stack web developrment program, at SoyHenry institute.
+* FrontEnd developer at TGL (Those.Guys.Labs).
+* Studying and Learning!
 
 ### Interests
 
-Web Developing, Data Sciences, Geographic Information Systems.
+Web Developing, Data Sciences, Programming in general, Geographic Information Systems.
 
 ### Technologies I am familiarized with
 
@@ -36,8 +36,6 @@ Our online version of a popular card game, "Truco". Play 1 vs 1, enter as a gues
 ![Image of Weather App](https://github.com/guillermoojeda/guillermoojeda/blob/main/Images/sample.gif)  
 A single-page app, made wirh JS and React. Check it out at https://lnkd.in/exSnvAQd. This app connects to http://www.openweather.org to obtain weather data from different places. Type the name of a city and check the weather for today.
 **Libraries and frameworks used:** Javascript, React, Bootstrap.
-  
-I will be uploading more of my works soon!
 
 #### Data Analysis
 
