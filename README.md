@@ -21,7 +21,7 @@ Web Developing, Data Sciences, Geographic Information Systems.
 ### Some projects I have done
 
 #### A user panel with React
-A big web project that is part of an even larger project I took part. It is a user/admin panel where the user can track his/her progress or, if admin, he can check the overall statistics of all players.
+A big web project that is part of an even larger project I took part in. It is a user/admin panel where the user can track his/her progress or, if admin, he can check the overall statistics of all players.
 
 https://user-images.githubusercontent.com/57275465/172925890-e7eea8f8-84f1-4fce-a6d1-386c3d77e00e.mp4
 
