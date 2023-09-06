@@ -2,7 +2,7 @@
 
 ### About me 
 
-As a Software Engineer, with experience as frontend and backend development, I am currently seeeking opportunities in the field of technology. I have worked at Eventbrite as a developer in its offices in Argentina (until half of the Dev department in this office was laid off) and as afrontend developer at TGL. Besides of that I have worked for 10 years in the field of agricultute, food industries and environmental sciences. I am passionate about programming and computer sciences, and I also have experience in the fields of Geogreaphic Information Systems and Statistics. My main goal right now is to improve my career in the field of technology.
+As a Software Engineer, with experience as frontend and backend development, I am currently seeeking opportunities in the field of technology. I have worked at Eventbrite as a developer in its offices in Argentina (until the Dev department in this office was laid off) and as afrontend developer at TGL. Besides of that I have worked for 10 years in the field of agricultute, food industries and environmental sciences. I am passionate about programming and computer sciences, and I also have experience in the fields of Geogreaphic Information Systems and Statistics. My main goal right now is to improve my career in the field of technology.
 
 ### Interests
 
